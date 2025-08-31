@@ -7,7 +7,7 @@ import MovieModal from "./components/MovieModal";
 import "./App.css";
 
 export default function App() {
-  const API_KEY = "543ca9a689e4abd48b01c9fa5d9adc4c";
+  const API_KEY = "TU_API_KEY_AQUI"; // Reemplaza con tu clave API
 
   const {
     DEFAULT_IMAGE,
